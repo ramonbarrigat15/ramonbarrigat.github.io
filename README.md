@@ -1,2 +1,2 @@
 # ramonbarrigat.github.io
-Segment training
+My playground, my rules
